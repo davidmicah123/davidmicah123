@@ -76,22 +76,20 @@
 ## 🧑‍🤝‍🧑 Socials
 
 <p align="left"> <a href="https://discord.com/users/DAVIDMICAH123#3085" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/DAVIDMICAH123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/i_am_henrii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Henry_Wi1der" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://twitter.com/davidmicdan123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidmicdan123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/david micah-daniels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david micah-daniels" height="30" width="40" /></a>
-<a href="https://instagram.com/david micah-daniels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="david micah-daniels" height="30" width="40" /></a>
-<a href="/davidmicahdaniels.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="davidmicahdaniels.netlify.app" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/davidmicah-daniesl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/davidmicdan123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+ 
 </p>
 
 
 
 ## Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/davidmicah123/Garden-World-Personal-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DAVIDMICAH123&repo=Basic_Computer_Games&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a>
+<div width="100%" align="center">
+ <a href="https://github.com/davidmicah123/Garden-World-Personal-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DAVIDMICAH123&repo=Basic_Computer_Games&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a>
 <a href="https://github.com/CIPHER-000/MY_CS50_PROJECTS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DAVIDMICAH123&repo=MY_CS50_PROJECTS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/DAVIDMICAH123/gpt3-sandbox" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DAVIDMICAH123&repo=gpt3-sandbox&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
+</div>
 
 
 
