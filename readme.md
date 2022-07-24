@@ -34,16 +34,16 @@
 
  # Hello ![15675](https://user-images.githubusercontent.com/97407958/174451504-a61dfc25-f2c6-414c-8f0a-e2dc557ee65a.gif) I'm David Micah-Daniels :robot:
                                  
- **A Software Developer based in Ibadan,Nigeria**
+ **A Frontend Developer based in Ibadan,Nigeria** 
 
 
 ## 🙎‍♂️ About Me
 
 - 💻 I love coding alot and I take pleasure in acquiring new skills.
-- ✨ My **inspiration** comes from seeing young people like me doing great things in the world of Technology, it's **thrilling**.
-- 🧑‍🤝‍🧑 I'm looking to collaborate on **projects** of any kind,
+- ✨ My **inspiration** comes from seeing young people like me doing great things in the world of Technology.
+- 🧑‍🤝‍🧑 I'm looking to collaborate on **JavaScript Projects**,
 - 📫 You can reach me via micahdanielsdavid2007@gmail.com, Twitter: https://twitter.com/Davidmicdan123.
-- 🎮: Hobby: Playing video games(alot:smile:).
+- 🎮: Hobby: coding(alot:smile:).
 
 
 ## 🚀 Skills:
