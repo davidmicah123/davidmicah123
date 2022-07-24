@@ -26,11 +26,11 @@
 
 
 
+--->
+
 ![istockphoto-1210233004-612x612-_1_](https://user-images.githubusercontent.com/97407958/174435857-b15b40b9-c550-4726-bce4-57f0df7cea8b.svg)
 
 
-
---->
 
  # Hello ![15675](https://user-images.githubusercontent.com/97407958/174451504-a61dfc25-f2c6-414c-8f0a-e2dc557ee65a.gif) I'm David Micah-Daniels :robot:
                                  
