@@ -33,7 +33,8 @@
 
 
 
- # Hello ![15675](https://user-images.githubusercontent.com/97407958/174451504-a61dfc25-f2c6-414c-8f0a-e2dc557ee65a.gif) I'm David Micah-Daniels :robot:
+ <!--- # Hello ![15675](https://user-images.githubusercontent.com/97407958/174451504-a61dfc25-f2c6-414c-8f0a-e2dc557ee65a.gif) I'm David Micah-Daniels :robot: --->
+ # Hello, I'm David Micah-Daniels
                                  
  **i'm a programmer and Fullstask developer, i'm highly skilled in frontend development React JSX, i'm based in Ibadan,Nigeria. I have intrest in open source communities and developer's meetup... i'm a team player with high leadership quality** 
 
