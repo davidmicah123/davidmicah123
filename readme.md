@@ -89,7 +89,7 @@
 </div>
 
 <p>
- my name is David Micah-Daniels a full stack developer and a very good front end developer
+ Hiiiiiiii
 </p> 
 
 <!---
