@@ -89,7 +89,7 @@
 </div>
 
 <p>
- Hiiiiiiii
+ hi i am David Micah-Daniels also known as dmd
 </p> 
 
 <!---
