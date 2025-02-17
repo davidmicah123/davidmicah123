@@ -40,14 +40,12 @@
 
 
 ## 🙎‍♂️ About Me
-
-- 💻 I love coding alot and I take pleasure in acquiring new skills.
-- ✨ My **inspiration** comes from seeing young people like me doing great things in the world of Technology.
-- 🧑‍🤝‍🧑 I'm looking to collaborate on **JavaScript Projects**,
-- 📫 You can reach me via micahdanielsdavid2007@gmail.com, Twitter: https://twitter.com/Davidmicdan123.
 - 🎮: Hobby: coding(alot:smile:).
 - 💬 Ask me about **JavaScript**
-- 📫 How to reach me **micahdanielsdavid2007@gmail.com**
+- 💻 I love coding alot and I take pleasure in acquiring new skills.
+- 🧑‍🤝‍🧑 I'm looking to collaborate on **JavaScript Projects**,
+- 📫 You can reach me via micahdanielsdavid2007@gmail.com, Twitter: https://twitter.com/Davidmicdan123.
+
 
 
 ## 🚀 Skills:
@@ -67,10 +65,10 @@
 
 <a href="http://www.github.com/DAVIDMICAH123"><img src="https://github-readme-stats.vercel.app/api?username=DAVIDMICAH123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="DAVIDMICAH123's GitHub stats" /></a>
 
-
+<!--
 <a href="http://www.github.com/DAVIDMICAH123"><img src="https://activity-graph.herokuapp.com/graph?username=DAVIDMICAH123&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<!--<a href="https://github.com/DAVIDMICAH123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIDMICAH123&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
+<a href="https://github.com/DAVIDMICAH123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIDMICAH123&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
 
 
 <!--
