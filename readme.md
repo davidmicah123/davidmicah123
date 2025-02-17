@@ -46,10 +46,10 @@
  </a>
 </p>
 
-<hr/>
+<h1></h1>
 <p align="center"> <a href="http://www.github.com/DAVIDMICAH123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DAVIDMICAH123&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
-<hr/>
+<h1></h1>
 
 ## 〽️ My Github Stats
 
