@@ -47,14 +47,14 @@
 </p>
 
 ## 📈 My Github Overview
-<p align="center"> <a href="http://www.github.com/DAVIDMICAH123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DAVIDMICAH123&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+<p align="center"> <a href="http://www.github.com/davidmicah123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DAVIDMICAH123&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
 <h1></h1>
 
 ## 〽️ My Github Stats
 <p align="center">
  <a href="http://www.github.com/DAVIDMICAH123">
-   <img src="https://github-readme-stats.vercel.app/api?username=DAVIDMICAH123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="DAVIDMICAH123's GitHub stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=davidmicah123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="davidmicah123's GitHub stats" />
  </a>
 </p>
 
