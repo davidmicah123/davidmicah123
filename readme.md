@@ -1,9 +1,6 @@
-
-
- <!--- # Hello ![15675](https://user-images.githubusercontent.com/97407958/174451504-a61dfc25-f2c6-414c-8f0a-e2dc557ee65a.gif) I'm David Micah-Daniels :robot: --->
- <h1 align="center">Hi 👋, I'm David Micah-Daniles</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
- # Hello, I'm David Micah-Daniels
+<h1 align="">Hi, I'm David Micah-Daniles</h1>
+<!-- <h3 align="center">A passionate frontend developer from Nigeria</h3>
+ # Hello, I'm David Micah-Daniels -->
                                  
  **I'm a frontend developer, highly skilled in frontend development React JSX, and other frontend technologies. I have intrest in open source communities and developer's meetup... i'm a team player with a high leadership quality** 
 
