@@ -1,8 +1,8 @@
 <h1 align="">Hi, I'm David Micah-Daniles</h1>
                                  
- **I'm a frontend developer, highly skilled in frontend development React JSX, and other frontend technologies. I have intrest in open source communities and developer's meetup... I'm a team player with a high leadership quality** 
+ I'm a frontend developer, highly skilled in frontend development React JSX, and other frontend technologies. I have intrest in open source communities and developer's meetup... I'm a team player with a high leadership quality 
  
- **I am a frontend developer with over 3 years of experience in developing and delivering web-based projects. My expertise spans both web and software development, and my strong ability to collaborate effectively within a team distinguishes me as a professional in the field.** 
+ I am a frontend developer with over 3 years of experience in developing and delivering web-based projects. My expertise spans both web and software development, and my strong ability to collaborate effectively within a team distinguishes me as a professional in the field.
 
 
 ## 🙎‍♂️ About Me
