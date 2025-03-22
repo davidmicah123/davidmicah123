@@ -6,11 +6,11 @@
 
 
 ## 🙎‍♂️ About Me
-- 🎮: Hobby: coding(alot).
-- 💬 Ask me about **JavaScript**
-- 💻 I love coding alot and I take pleasure in acquiring new skills.
-- 🧑‍🤝‍🧑 I'm looking to collaborate on **Frontend Projects**,
-- 📫 You can reach me via micahdanielsdavid2007@gmail.com, Twitter: https://x.com/Davidmicdan_.
+- Location: Nigeria
+- JavaScript Guy
+- Phone: +234 (0) 703 532 6207
+- X/Twitter: x.com/Davidmicdan_
+- Email: micahdanielsdavid2007@gmail.com
 
 
 
