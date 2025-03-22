@@ -6,11 +6,11 @@
 
 
 ## 🙎‍♂️ About Me
-  - Location: Nigeria
-  - JavaScript Guy
-  - Phone: +234 (0) 703 532 6207
-  - X/Twitter: https://x.com/Davidmicdan_
-  - Email: micahdanielsdavid2007@gmail.com
+- Location: Nigeria
+- JavaScript Guy
+- Phone: +234 (0) 703 532 6207
+- X/Twitter: https://x.com/Davidmicdan_
+- Email: micahdanielsdavid2007@gmail.com
 
 
 
