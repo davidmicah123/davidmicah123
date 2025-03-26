@@ -52,7 +52,7 @@
 </p> -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidmicah123&" alt="davidmicah123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmicah123&show_icons=true&locale=en" alt="davidmicah123" /></p>
 <!-- 
 <a href="https://wakatime.com/@2df96f8a-6b38-44fa-b065-34d88990fb97"><img src="https://wakatime.com/badge/user/2df96f8a-6b38-44fa-b065-34d88990fb97.svg" alt="Total time coded since Nov 29 2024" /></a>
  -->
