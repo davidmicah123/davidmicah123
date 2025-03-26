@@ -45,11 +45,14 @@
 <h1></h1>
 
 ## 〽️ My Github Stats
-<p align="center">
+<!-- <p align="center">
  <a href="http://www.github.com/DAVIDMICAH123">
    <img src="https://github-readme-stats.vercel.app/api?username=davidmicah123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="davidmicah123's GitHub stats" />
  </a>
-</p>
+</p> -->
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidmicah123&" alt="davidmicah123" /></p>
 <!-- 
 <a href="https://wakatime.com/@2df96f8a-6b38-44fa-b065-34d88990fb97"><img src="https://wakatime.com/badge/user/2df96f8a-6b38-44fa-b065-34d88990fb97.svg" alt="Total time coded since Nov 29 2024" /></a>
  -->
