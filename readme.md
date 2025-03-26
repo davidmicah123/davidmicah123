@@ -52,7 +52,7 @@
 </p> -->
 
 
-<p>&nbsp;<img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=davidmicah123&show_icons=true&locale=en&background=000000" alt="davidmicah123" /></p>
+<p align="center">&nbsp;<img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=davidmicah123&show_icons=true&locale=en&background=000000" alt="davidmicah123" /></p>
 
 
 
