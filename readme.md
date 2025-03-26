@@ -52,7 +52,9 @@
 </p> -->
 
 
-<p align="center">&nbsp;<img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=davidmicah123&show_icons=true&locale=en&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" alt="davidmicah123" /></p>
+<p align="center">
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=davidmicahdaniels)
+&nbsp;<img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=davidmicah123&show_icons=true&locale=en&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" alt="davidmicah123" /></p>
 
 
 
