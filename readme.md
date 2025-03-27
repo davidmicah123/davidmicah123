@@ -59,6 +59,8 @@
 </p>
 
 
+### I'm open to jobs... Projects
+### I'm job haunting!!
 
 </div> 
 
