@@ -45,18 +45,16 @@
 <h1></h1>
 
 ## 〽️ My Github Stats
-<!-- <p align="center">
- <a href="http://www.github.com/DAVIDMICAH123">
-   <img src="https://github-readme-stats.vercel.app/api?username=davidmicah123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="davidmicah123's GitHub stats" />
- </a>
-</p> -->
-
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=davidmicahdaniels&text_color=ffffff&bg_color=000000&hide_border=true" alt="davidmicah123" />
 
+</p>
+
 
 <h1></h1>
+
+<p align="center">
   <img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=davidmicah123&show_icons=true&locale=en&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" alt="davidmicah123" />
 </p>
 
