@@ -35,6 +35,16 @@
  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://camo.githubusercontent.com/ce0d3c1da502dcf16ea5aa734ebdd983ed9a4a4fe884fdb00e9a896ef0aa7789/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d686f7470696e6b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353266c6f676f436f6c6f723d7768697465" width="90" height="36" alt="JavaScript" />
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://camo.githubusercontent.com/69b4807267633882a7cef26d565a2d94eb14865131e38e6f86a725ede1897534/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65746c6966792d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d23303043374237" width="90" height="36" alt="JavaScript" />
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" width="90" height="36" alt="postman" />
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://camo.githubusercontent.com/74cce452e5a2a2b097d9c5e51b3fabed8799be8bd0b6231955d9656cd56fadb4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f524553542d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d72657374266c6f676f436f6c6f723d7768697465" width="90" height="36" alt="postman" />
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://camo.githubusercontent.com/74cce452e5a2a2b097d9c5e51b3fabed8799be8bd0b6231955d9656cd56fadb4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f524553542d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d72657374266c6f676f436f6c6f723d7768697465" width="90" height="36" alt="postman" />
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://camo.githubusercontent.com/6eff46a364eba690cb91a9f40084d97f96bf95699f3cb7722125dc1dc324fde1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73" width="90" height="36" alt="postman" />
  </a>
  
 </p>
