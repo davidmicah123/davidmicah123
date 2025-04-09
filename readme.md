@@ -54,7 +54,7 @@
 
 <h1></h1>
 
-## 〽️ My Github Stats
+## 〽️ My Stats
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=davidmicahdaniels&text_color=ffffff&bg_color=000000&hide_border=true" alt="davidmicah123" />
